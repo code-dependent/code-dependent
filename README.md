@@ -1,5 +1,5 @@
 ### Hello, World! 👋🏽 🌏
-Josh here, I'm a motivated software developer with a passion for creating for learning and teaching others.
+Josh here, I'm a motivated software developer with a passion for creating, learning and teaching others.
 
 Follow Me on Twitter: https://www.twitter.com/code_dependent.
 
